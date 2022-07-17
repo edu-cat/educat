@@ -4,7 +4,7 @@
     "description": "EduCat platform",
     "keywords": ["educat", "education", "mentor", "trainee"],
     "homepage": "https://educat.pro",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
             "name": "Dzianis Kotau",
